@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-languages](https://img.shields.io/github/languages/count/sw0817)
-![github-top-language](https://img.shields.io/github/languages/top/sw0817)
-![commit-activity](https://img.shields.io/github/commit-activity/w/sw0817)
-![last-commit](https://img.shields.io/github/last-commit/sw0817)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django?style=plastic)

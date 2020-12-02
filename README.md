@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![github-languages](https://img.shields.io/github/languages/count/beygee/survive)
+![github-top-language](https://img.shields.io/github/languages/top/beygee/survive)
+![commit-activity](https://img.shields.io/github/commit-activity/w/beygee/survive)
+![last-commit](https://img.shields.io/github/last-commit/beygee/survive)

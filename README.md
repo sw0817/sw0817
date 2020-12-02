@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-languages](https://img.shields.io/github/languages/count/beygee/survive)
-![github-top-language](https://img.shields.io/github/languages/top/beygee/survive)
-![commit-activity](https://img.shields.io/github/commit-activity/w/beygee/survive)
-![last-commit](https://img.shields.io/github/last-commit/beygee/survive)
+![github-languages](https://img.shields.io/github/languages/count/sw0817/survive)
+![github-top-language](https://img.shields.io/github/languages/top/sw0817/survive)
+![commit-activity](https://img.shields.io/github/commit-activity/w/sw0817/survive)
+![last-commit](https://img.shields.io/github/last-commit/sw0817/survive)

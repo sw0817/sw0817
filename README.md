@@ -17,6 +17,6 @@
   - `삼청 청년 소프트웨어 아카데미(SSAFY - Samsung Software Academy For Youth)`: 2020.07 ~ ing
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sakwook2)](https://solved.ac/sakwook2)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sw0817&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&amp;layout=compact&amp;hide=Visual%20Basic)]
+[![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sakwook2)](https://solved.ac/sakwook2)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=sw0817&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw0817&amp;layout=compact&amp;hide=Visual%20Basic)]

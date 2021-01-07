@@ -18,4 +18,4 @@
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sakwook2)](https://solved.ac/sakwook2)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sw0817)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sw0817&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)

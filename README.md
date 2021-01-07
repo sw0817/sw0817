@@ -7,7 +7,7 @@
 
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sakwook2)](https://solved.ac/sakwook2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw0817&amp;layout=compact&amp;hide=Visual%20Basic)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw0817&amp;layout=compact&amp;hide=Visual%20Basic)
 
 
 

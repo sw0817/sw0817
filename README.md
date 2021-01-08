@@ -11,5 +11,11 @@
 ## University
 - `한국항공대학교(Korea Aerospace University)` : (2012 ~ 2020)
 
+
 ## Activity
-- `삼청 청년 소프트웨어 아카데미(SSAFY - Samsung Software Academy For Youth)`: 2020.07 ~ ing
+- `삼청 청년 소프트웨어 아카데미 4기(SSAFY - Samsung Software Academy For Youth)`: 2020.07 ~ ing
+
+
+## Project
+- 사용자 맞춤 영화 추천 웹 서비스
+- 반려동물 커뮤니티 SNS 서비스

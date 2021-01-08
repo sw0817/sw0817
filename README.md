@@ -7,12 +7,9 @@
 
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sakwook2)](https://solved.ac/sakwook2)
 
-## Info
 
-### University
----
+## University
 - `한국항공대학교(Korea Aerospace University)` : (2012 ~ 2020)
 
-### Activity
----
+## Activity
 - `삼청 청년 소프트웨어 아카데미(SSAFY - Samsung Software Academy For Youth)`: 2020.07 ~ ing

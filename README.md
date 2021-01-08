@@ -19,3 +19,22 @@
 ## Project
 - 사용자 맞춤 영화 추천 웹 서비스
 - 반려동물 커뮤니티 SNS 서비스
+- 각종 알고리즘 공부
+
+
+## Interest
+- Languages
+  - Python
+  - Java
+  - C++
+- Frameworks
+  - Django
+  - Spring
+  - Vue.js
+- Problem Solving
+  - Baekjoon
+  - SWEA
+
+## Contacts
+- Github Repo Issue
+- Email

@@ -32,6 +32,7 @@
   - C#
   - C++
   - Java
+  - JavaScript
 - Frameworks & GameEngines
   - Django
   - Spring

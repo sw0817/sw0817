@@ -17,6 +17,7 @@
   - 공통프로젝트(PETMILY - 웹앱 서비스) 우수프로젝트 서울 3등: 2021.01.11 ~ 2021.02.19
   - 특화프로젝트(EIRENE - AI기술을 활용한 VR 색채 테라피) 우수프로젝트 서울 1등 : 2021.03.02 ~ 2021.04.09
 - Applied in SAMSUNG SOS Masters as Toddler level : 2021.02.23
+- Achieve Baekjoon Platinum Tier : 2021.04.18
 
 
 ## Project

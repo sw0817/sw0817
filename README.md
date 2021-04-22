@@ -23,9 +23,10 @@
 ## Project
 - 사용자 맞춤 영화 추천 웹 서비스 (SSAFLIX)
 - 반려동물 커뮤니티 SNS 서비스 (PETMILY)
+- 음성 및 모션인식 VR 힐링 체험 게임 (EIRENE)
+- VR 역사 체험 교육 게임
 - 테트리스 게임 코딩
 - 각종 알고리즘 공부
-- 음성 및 모션인식 VR 힐링 체험 게임 (EIRENE)
 
 
 ## Interest
@@ -40,6 +41,9 @@
   - Spring
   - Vue.js
   - Unity
+- VR Contents
+  - Google Cardboard
+  - Oculus Quest 2
 - Problem Solving
   - Baekjoon
   - SWEA

@@ -19,6 +19,7 @@
   - 자율프로젝트(역주행 - VR 역사 체험 교육 컨텐츠) : 2021.04.12 ~ ing
 - Applied in SAMSUNG SOS Masters as Toddler level : 2021.02.23
 - Achieve Baekjoon Platinum Tier : 2021.04.18
+- Open Source Contribute - [Open Brush](https://github.com/icosa-gallery/open-brush) : First merge (2021.05.18)
 
 
 ## Project

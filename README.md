@@ -17,6 +17,7 @@
   - 공통프로젝트(PETMILY - 웹앱 서비스) 우수프로젝트 서울 3등: 2021.01.11 ~ 2021.02.19
   - 특화프로젝트(EIRENE - AI기술을 활용한 VR 색채 테라피) 우수프로젝트 서울 1등 : 2021.03.02 ~ 2021.04.09
   - 자율프로젝트(역주행 - 오픈소스 기술을 활용한 VR 역사 체험 교육 컨텐츠) 우수프로젝트 서울 1등 : 2021.04.12 ~ 2021.05.28, Open Source Contribute, SSAFY 최종 프로젝트 결선 전국 1등(2021.06.01)
+  - 우수교육생 수료 (삼성전자 대표이사상 수여) : 2021.06.09
 - Applied in SAMSUNG SOS Masters as Toddler level : 2021.02.23
 - Achieve Baekjoon Platinum Tier : 2021.04.18
 - Open Source Contribute - [Open Brush](https://github.com/icosa-gallery/open-brush) : First merge (2021.05.18)

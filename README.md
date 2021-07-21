@@ -9,7 +9,7 @@
 
 
 ## University
-- 한국항공대학교(Korea Aerospace University) : (2012 ~ 2020)
+- 한국항공대학교(Korea Aerospace University) : (2012.03 ~ 2020.02)
 
 
 ## Activity

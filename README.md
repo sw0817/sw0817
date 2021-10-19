@@ -8,10 +8,6 @@
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sakwook2)](https://solved.ac/sakwook2)
 
 
-## University
-- 한국항공대학교(Korea Aerospace University) : (2012.03 ~ 2020.02)
-
-
 ## Activity
 - 삼성 청년 소프트웨어 아카데미 4기(SSAFY - Samsung Software Academy For Youth): 2020.07 ~ 2021.06
   - 공통프로젝트(PETMILY - 반려동물 전용 SNS 및 다이어리 웹 앱 서비스) 우수프로젝트 서울 3등: 2021.01.11 ~ 2021.02.19

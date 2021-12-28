@@ -10,8 +10,8 @@
 
 ## 💻 Career & Activity
 - LG에너지솔루션 (LG Energy Solution) : 2021.11.15 ~
-- 삼성 청년 소프트웨어 아카데미 5기 실습코치 (SSAFY - Samsung Software Academy For Youth Project Coach) : 2021.06.28 ~ 2021.11.05
-- 삼성 청년 소프트웨어 아카데미 4기 (SSAFY - Samsung Software Academy For Youth) : 2020.07 ~ 2021.06
+- 삼성 청년 소프트웨어 아카데미 5기 실습코치 (SSAFY - The 5th Samsung Software Academy For Youth Project Coach) : 2021.06.28 ~ 2021.11.05
+- 삼성 청년 소프트웨어 아카데미 4기 (SSAFY - The 4th Samsung Software Academy For Youth) : 2020.07 ~ 2021.06
   - SSAFY SW Certificate 최우수 (상위 5% 내) 교육생 수료 (삼성전자 대표이사상 수여) : 2021.06.09
   - 자율프로젝트 (역주행 - 오픈소스 기술을 활용한 VR 역사 체험 교육 컨텐츠) 우수프로젝트 서울 1등 : 2021.04.12 ~ 2021.05.28, Open Source Contribute, SSAFY 최종 프로젝트 결선 전국 1등(2021.06.01)
   - 특화프로젝트 (EIRENE - AI기술을 활용한 VR 색채 테라피) 우수프로젝트 서울 1등 : 2021.03.02 ~ 2021.04.09

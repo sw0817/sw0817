@@ -41,8 +41,8 @@
   - C#
   - C++
 - Frameworks & GameEngines
-  - Django
   - Spring
+  - Django
   - Vue.js
   - React
   - Unity
@@ -53,7 +53,6 @@
 - Problem Solving
   - Baekjoon
   - Programmers
-  - SWEA
 
 ## 📬 Contacts
 - Github Repo Issue

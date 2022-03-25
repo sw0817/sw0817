@@ -9,6 +9,7 @@
 
 
 ## 💻 Career & Activity
+- 롯데정보통신 (Lotte Data Communication) : 2022.03.21 ~
 - LG에너지솔루션 (LG Energy Solution) : 2021.11.15 ~ 2022.03.18
   - 원격 지원 가능 VR Training Simulator 개발
 - 삼성 청년 소프트웨어 아카데미 5기 실습코치 (SSAFY - The 5th Samsung Software Academy For Youth Project Coach) : 2021.06.28 ~ 2021.11.05

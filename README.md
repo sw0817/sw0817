@@ -9,7 +9,7 @@
 
 
 ## 💻 Career & Activity
-- 롯데정보통신 (Lotte Data Communication) : 2022.03.21 ~
+- 롯데정보통신 (LDCC) : 2022.03.21 ~
   - 묘미 웹 개발
 - LG에너지솔루션 (LG Energy Solution) : 2021.11.15 ~ 2022.03.18
   - 원격 지원 가능 VR Training Simulator 개발

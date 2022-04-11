@@ -17,7 +17,7 @@
 - 삼성 청년 소프트웨어 아카데미 4기 (SSAFY - The 4th Samsung Software Academy For Youth) : 2020.07 ~ 2021.06
   - SSAFY SW Certificate 최우수 (상위 5% 내) 교육생 수료 (삼성전자 대표이사상 수여) : 2021.06.09
   - 자율프로젝트 (역주행 - 오픈소스 기술을 활용한 VR 역사 체험 교육 컨텐츠) 우수프로젝트 서울 1등 : 2021.04.12 ~ 2021.05.28, Open Source Contribute, SSAFY 최종 프로젝트 결선 전국 1등(2021.06.01)
-  - 특화프로젝트 (EIRENE - AI기술을 활용한 VR 색채 테라피) 우수프로젝트 서울 1등 : 2021.03.02 ~ 2021.04.09
+  - 특화프로젝트 (EIRENE - Motion Tracking, STT AI기술을 활용한 VR 색채 테라피) 우수프로젝트 서울 1등 : 2021.03.02 ~ 2021.04.09
   - 공통프로젝트 (PETMILY - 반려동물 전용 SNS 및 다이어리 웹 앱 서비스) 우수프로젝트 서울 3등: 2021.01.11 ~ 2021.02.19
 - Open Source Contribute
   - [Open Brush](https://github.com/icosa-gallery/open-brush) : [First merge](https://github.com/icosa-gallery/open-brush/pull/124) (2021.05.18)
@@ -27,6 +27,7 @@
 
 
 ## 🕹 Project
+- 라이프스타일 렌탈플랫폼 (Myomee)
 - VR 역사 체험 교육 시뮬레이터 게임 (역주행)
 - 음성 인식 및 모션 인식 VR 힐링 체험 게임 (EIRENE)
 - 반려동물 커뮤니티 SNS 서비스 (PETMILY)

@@ -9,8 +9,8 @@
 
 
 ## 💻 Career & Activity
-- 롯데정보통신(LDCC) 렌탈IS팀 : 2022.03.21 ~
-  - 라이프스타일 렌탈 플랫폼 묘미 웹/모바일 개발
+- 롯데정보통신(LDCC) 렌탈IS팀 묘미 운영 개발 : 2022.03.21 ~
+  - 라이프스타일 소비재 렌탈 서비스 플랫폼 묘미 웹/모바일 개발
 - LG에너지솔루션 (LG Energy Solution) : 2021.11.15 ~ 2022.03.18
   - 원격 지원 가능 VR Training Simulator 개발
 - 삼성 청년 소프트웨어 아카데미 5기 실습코치 (SSAFY - The 5th Samsung Software Academy For Youth Project Coach) : 2021.06.28 ~ 2021.11.05

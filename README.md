@@ -39,8 +39,8 @@
 
 ## 🎈 Interest
 - Languages
-  - Python
   - Java
+  - Python
   - JavaScript
   - C#
   - C++
@@ -52,8 +52,8 @@
   - Unity
   - Unreal Engine
 - VR Contents
-  - Google Cardboard
   - Oculus Quest 2
+  - Google Cardboard
 - Problem Solving
   - Baekjoon
   - Programmers

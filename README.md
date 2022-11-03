@@ -44,6 +44,7 @@
   - JavaScript
   - C#
   - C++
+  - Solidity
 - Frameworks & GameEngines
   - Spring
   - Django

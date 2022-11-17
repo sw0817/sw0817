@@ -50,6 +50,7 @@
   - Django
   - Vue.js
   - React
+  - Node.js
   - Unity
   - Unreal Engine
 - VR Contents

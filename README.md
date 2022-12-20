@@ -35,7 +35,7 @@
 - 테트리스 게임 코딩
 - 각종 알고리즘 공부
 - 모바일 인디 게임
-- BNB Chain 기반의 NFT 방꾸미기 SNS 서비스 (내일의 집)
+- BNB Chain 기반의 NFT 방꾸미기 DAPP (내일의 집)
 
 
 ## 🎈 Interest

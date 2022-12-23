@@ -25,6 +25,8 @@
 - Achieve Baekjoon Platinum Tier : 2021.04.18
 - Applied in SAMSUNG SOS Masters as Toddler level : 2021.02.23
 
+- BNB체인 이노베이션 해커톤 Web3 일상 Track 최종 5위 : 2022.12.19
+
 
 ## 🕹 Project
 - 라이프스타일 렌탈플랫폼 (Myomee)
@@ -36,7 +38,6 @@
 - 각종 알고리즘 공부
 - 모바일 인디 게임
 - BNB Chain 기반의 NFT 방꾸미기 DAPP (내일의 집)
-  - BNB체인 이노베이션 해커톤 Web3 일상 Track 최종 5위
 
 ## 🎈 Interest
 - Languages

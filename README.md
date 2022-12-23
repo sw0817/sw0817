@@ -36,7 +36,7 @@
 - 각종 알고리즘 공부
 - 모바일 인디 게임
 - BNB Chain 기반의 NFT 방꾸미기 DAPP (내일의 집)
-
+  - BNB체인 이노베이션 해커톤 Web3 일상 Track 최종 5위
 
 ## 🎈 Interest
 - Languages

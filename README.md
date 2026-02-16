@@ -9,11 +9,10 @@
 
 
 ## 💻 Career & Activity
-- 롯데정보통신(LDCC) 렌탈IS팀 묘미 운영 개발 : 2022.03.21 ~
+- 롯데이노베이트(LOTTE INNOVATE) 렌탈IS팀 묘미 운영 개발 : 2022.03.21 ~
   - 라이프스타일 소비재 렌탈 서비스 플랫폼 묘미 웹/모바일 개발
   - 롯데렌탈 영업시스템 개발
-    - Gitlab 구조 설계
-    - OpenShift Container 관리
+    - Gitlab / Jenkins / OpenShift CI/CD 구성
     - 물류/채권 시스템 개발
     - 플랫폼 공통 기능 개발
 - LG에너지솔루션 (LG Energy Solution) : 2021.11.15 ~ 2022.03.18
